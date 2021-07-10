@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MusicApp</string>
+    <string name="arg_album">Album</string>
+    <string name="search_album_name">Search album name</string>
+    <string name="search_music">Search Music</string>
+    <string name="search_album">Search Album</string>
+    <string name="search_artist">Search Artist</string>
+</resources>
